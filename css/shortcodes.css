@@ -2,17 +2,15 @@
 /*	TEXT TYPES
 /*-----------------------------------------------------------------------------------*/
 .text.type.one {
-    font-family: 'NovecentowideLightRegular', arial, helvetica;
+    font-family: 'Impact', arial, helvetica;
     font-size: 35px;
-    text-transform: uppercase;
     text-align: center;
     line-height: 1.2em;
 }
 
 .text.type.two {
-    font-family: 'LeagueGothicRegular', arial, helvetica;
-    font-size: 150px;
-    text-transform: uppercase;
+    font-family: 'Georgia', arial, helvetica;
+    font-size: 38px;
     text-align: center;
     line-height: 0.8em;
 }
@@ -100,10 +98,18 @@
 
 }
 .text.type.seven {
-
+    font-family: 'NovecentowideLightRegular', arial, helvetica;
+    font-size: 35px;
+    text-transform: uppercase;
+    text-align: center;
+    line-height: 1.2em;
 }
 .text.type.eight {
-
+    font-family: 'LeagueGothicRegular', arial, helvetica;
+    font-size: 150px;
+    text-transform: uppercase;
+    text-align: center;
+    line-height: 0.8em;
 }
 .text.type.nine {
 
